@@ -1,1 +1,4 @@
-
+# Javascript Fetch API
+The Fetch API interface allows web browser to make HTTP requests to web servers. The API is fetched for our page and input value is inside fetch along with API key. API used here is generated from <a href = https://home.openweathermap.org/api_keys>OpenWeatherMap API</a> which shows us weather data. Here we are fetching a JSON file across the network and printing it to the console. The simplest use of fetch() takes one argument — the path to the resource you want to fetch — and does not directly return the JSON response body but instead returns a promise that resolves with a Response object. Then data help stores the value in const form which are later displayed as innerHTML. In case of city not found, error is throwed.
+<br>
+<img src = "https://scontent.fbir2-1.fna.fbcdn.net/v/t1.6435-9/p235x350/239556441_372304561181265_330051474747860024_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=b9115d&_nc_ohc=labWzMueyyAAX-bzhb0&_nc_ht=scontent.fbir2-1.fna&oh=7aa4e126bc4fa5d8cedb524ca183f0ed&oe=6148D1F0">
